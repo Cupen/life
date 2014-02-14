@@ -1,5 +1,6 @@
 @Cupen's life
 ===============
 
-- 1990/08/26 Born
-- 2009 Got a computer
+- 26/08/1990 Born
+- 2009-~ Got a computer
+- 04/2012-~Working in Wuhan China
